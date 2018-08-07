@@ -16,7 +16,7 @@ PHP로 개발된 유튜브 이벤트 전용 '추첨 사이트'입니다
 사이트 개발 문의는 talk105@naver.com 이메일로 연락주세요.  
 
 ### 사용중인 유튜버
-1. 로이조TV  
+1. 
   
 감사합니다.  
 Copyright 2018. talk105(최민준) All rights reserved.
