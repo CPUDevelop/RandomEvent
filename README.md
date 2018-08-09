@@ -8,7 +8,7 @@ PHP로 개발된 유튜브 이벤트 전용 '추첨 사이트'입니다
 간단하게 말씀드리면, PHP와 DB를 이용한 랜덤 추첨 방식입니다.
 
 ### 사이트 사진
-![추첨진행](https://raw.githubusercontent.com/CPUDevelop/RandomEvent/master/assets/site1.png) 
+![추첨진행](https://raw.githubusercontent.com/CPUDevelop/RandomEvent/master/assets/site2.png) 
 
 ### 저작권 안내
 본 프로젝트는 원 저작권자로부터 저작권 보호를 받는 소스입니다.  
