@@ -54,7 +54,7 @@
 
 					foreach($items as $item) {
 						$title = $item->snippet->title;
-						if($title == "로이조 TV"){
+						if($title == "SBS 뉴스"){
 							$subscribe = 1;
 						}
 					}
@@ -118,8 +118,8 @@
 						echo "<script>alert('응모가 완료 되었습니다!');</script>";
 						echo("<script>location.href='/success.php?vote_google_id=".$google_id."';</script>");
 					}else{
-						echo "<script>alert('로이조 TV 구독자가 아닙니다. 구독을 눌러주세요.');</script>";
-						echo("<script>location.href='https://www.youtube.com/channel/UCLJs55bZWMsCBPekt3vssoQ?sub_confirmation=1';</script>");
+						echo "<script>alert('SBS 뉴스 TV 구독자가 아닙니다. 구독을 눌러주세요.');</script>";
+						echo("<script>location.href='https://www.youtube.com/user/sbsnews8?sub_confirmation=1';</script>");
 					}
 				} else
 					exit("JSON 오류가 발생 하였습니다." . json_last_error_msg());
